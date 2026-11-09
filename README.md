@@ -1,136 +1,83 @@
-# Frederico Costa
+# Frederico Santos
 
-Engenharia de Dados · Infraestrutura · Automação · AWS e FinOps
+Engenharia de Dados · Automação · Infraestrutura · AWS e FinOps
 
-Desenvolvo soluções que conectam dados, infraestrutura e automação,
-com atenção à organização, à operação e aos custos dos ambientes.
+Atuo com administração de ambientes AWS, análise de custos em nuvem
+e automação de processos. Minha experiência conecta infraestrutura,
+tratamento de dados e desenvolvimento de soluções para apoiar
+a operação e a tomada de decisão.
 
-Meu interesse está em compreender e construir o caminho completo de
-uma solução: da origem dos dados e da infraestrutura necessária até
-o processamento, a análise e a disponibilização das informações.
+Sou graduado em Matemática, com pós-graduação em Matemática
+Orientada à Computação Aplicada e formação complementar em
+Engenharia de Dados e Análise de Dados pela PoD Academy.
 
-## Sobre mim
+## Experiência e entregas
 
-Sou formado em Matemática, com pós-graduação em Matemática Orientada
-à Computação Aplicada.
+- Monitoramento e FinOps: desenvolvi uma solução para acompanhamento
+  e análise de custos em múltiplas contas AWS, com coleta e
+  consolidação de dados, identificação de variações de consumo,
+  relatórios e notificações automatizadas.
 
-Minha experiência profissional reúne suporte de TI, administração de
-ambientes AWS, análise de custos em nuvem e desenvolvimento de
-automações.
+- Dados e automação: desenvolvo pipelines, análises e automações
+  com Python e SQL, conectando necessidades operacionais à
+  organização e disponibilização de informações.
 
-Ao longo dessa trajetória, venho aproximando a experiência operacional
-da engenharia de dados: entender problemas, organizar informações,
-automatizar processos e construir soluções que possam ser mantidas
-e evoluídas.
+- Infraestrutura: experiência com administração AWS, suporte de TI
+  e automação de infraestrutura com Terraform.
 
-Neste perfil, compartilho projetos, decisões técnicas e aprendizados
-relacionados a dados, infraestrutura e automação.
+## Competências técnicas
 
-## Foco profissional
-
-Busco desenvolver minha atuação em engenharia de dados, conectando
-essa área à minha experiência com infraestrutura, AWS e FinOps.
-
-Meus principais interesses incluem:
-
-- Construção e organização de pipelines de dados.
-- Integração, transformação e disponibilização de informações.
-- Automação de processos e rotinas operacionais.
-- Configuração e documentação de ambientes.
-- Infraestrutura como código.
-- Migração de soluções para a nuvem.
-- Análise e acompanhamento de custos de infraestrutura.
-
-## Como estou estruturando meu portfólio
-
-O planejamento do portfólio contempla quatro projetos relacionados:
-três desenvolvidos em infraestrutura on-premises e um quarto dedicado
-à migração dessas soluções para AWS.
-
-A proposta não é utilizar nuvem em todos os projetos. Quero apresentar
-tanto a construção das soluções em seu ambiente de origem quanto as
-decisões necessárias para sua evolução para a nuvem.
-
-### Primeira etapa — Projetos em infraestrutura on-premises
-
-Três projetos formarão a base do portfólio.
-
-Em cada um, pretendo documentar:
-
-- O problema e o objetivo da solução.
-- A arquitetura da aplicação e dos dados.
-- Os requisitos e a configuração da infraestrutura.
-- As etapas de execução.
-- As rotinas de automação.
-- As formas de validação.
-- As limitações e possibilidades de evolução.
-
-Os escopos e as tecnologias de cada projeto serão apresentados nos
-respectivos repositórios.
-
-### Segunda etapa — Migração para AWS
-
-O quarto projeto será dedicado à migração das soluções anteriores
-para AWS.
-
-O objetivo será documentar não apenas o ambiente de destino, mas
-também o processo de decisão:
-
-- Levantamento do ambiente de origem.
-- Dependências entre os componentes.
-- Escolhas de arquitetura.
-- Adaptações necessárias nas aplicações e nos dados.
-- Provisionamento da infraestrutura.
-- Estratégia de migração e validação.
-- Comparação entre os ambientes.
-- Estimativa e acompanhamento de custos.
-
-Essa etapa conectará engenharia de dados, infraestrutura, automação
-e FinOps em uma mesma trajetória de evolução.
-
-> Essa estrutura representa o planejamento do portfólio.
-> O estágio real de cada entrega será informado em seu repositório.
-
-## Tecnologias e ferramentas
-
-As tecnologias são escolhidas conforme o objetivo de cada projeto.
-Nem todos os repositórios utilizam a mesma stack.
-
-| Área | Tecnologias e ferramentas |
+| Área | Competências |
 | --- | --- |
-| Programação e automação | Python |
-| Consulta e transformação de dados | SQL |
-| Sistemas e ambiente de trabalho | Linux |
+| Engenharia e análise de dados | Python, SQL, DuckDB, Parquet e arquitetura Medallion |
+| Cloud e FinOps | AWS, monitoramento de consumo e análise de custos |
+| Infraestrutura e automação | Terraform, Linux e automação de processos |
 | Versionamento | Git e GitHub |
-| Infraestrutura como código | Terraform |
-| Computação em nuvem | AWS |
 
-## Documentação dos projetos
+As tecnologias variam conforme o objetivo de cada projeto.
+Nem todas as soluções deste portfólio utilizam serviços em nuvem.
 
-Procuro organizar os repositórios para deixar claro:
+## Hackathons
 
-- Qual problema o projeto pretende resolver.
-- O que já foi implementado e validado.
-- Como preparar o ambiente e executar a solução.
-- Quais decisões técnicas foram tomadas.
-- Quais limitações ainda existem.
-- Quais são os próximos passos.
+- Equipe vencedora — Super Hackathon Full Stack Dados & Analytics,
+  PoD Academy, desafio Claro e Oracle: fui líder do squad de
+  engenharia e atuei diretamente no desenvolvimento do pipeline
+  e das camadas de dados de uma solução de credit scoring.
 
-Projetos de estudo, entregas em desenvolvimento e soluções concluídas
-serão identificados de acordo com seu estágio real.
+  [Certificado de participação — Squad 3](https://e-certificado.com/login/visualizar?c=2923148A5EBEAD7E15257610)
 
-## Formação acadêmica
+- Participação — Super Hackathon Full Stack Dados & Analytics —
+  Edição DM, PoD Academy.
 
-- Graduação em Matemática.
-- Pós-graduação em Matemática Orientada à Computação Aplicada.
+  [Certificado de participação](https://e-certificado.com/login/visualizar?c=2539847A2F50792115257610)
 
 ## Formação complementar
 
-- Engenharia de Dados — Pod Academy [(URL_DO_CERTIFICADO)](https://e-certificado.com/login/autenticar?c=3023064A4E8DF77C15257610)
-- Análise de Dados — Pod Academy [(URL_DO_CERTIFICADO)](https://e-certificado.com/login/autenticar?c=3054401A1D520FC215257610)
+- [Engenharia de Dados — 250 horas — PoD Academy](https://e-certificado.com/login/visualizar?c=3023064A4E8DF77C15257610)
+- [Análise de Dados — PoD Academy](https://e-certificado.com/login/visualizar?c=3054401A1D520FC215257610)
 
-## Desenvolvimento contínuo
+<details>
+<summary>Cursos e módulos complementares</summary>
 
-Continuo aprofundando meus conhecimentos em Python, SQL, Linux,
-infraestrutura como código e arquitetura de dados, aplicando esses
-estudos em projetos documentados e incrementais.
+- [Apache Airflow](https://e-certificado.com/login/visualizar?c=2547800A4BDF1D9315257610)
+- [Visualização de Dados: Power BI](https://e-certificado.com/login/visualizar?c=2547755ADA848CF515257610)
+- [SQL, Python, PySpark, Sistemas Operacionais e Ecossistemas Hadoop e Spark para Big Data & Analytics](https://e-certificado.com/login/visualizar?c=2352572AA0DB811C15257610)
+- [Cloud Computing](https://e-certificado.com/login/visualizar?c=2371406AF6E35A5F15257610)
+- Web Scraping.
+
+</details>
+
+## Portfólio
+
+Os repositórios apresentam projetos de dados e automação,
+com documentação do problema, da implementação e das
+decisões técnicas.
+
+A evolução planejada contempla três projetos em ambiente
+local/on-premises e um quarto dedicado à migração dessas
+soluções para AWS. O estágio de implementação será informado
+em cada repositório.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/notifications/)
